@@ -1,10 +1,1 @@
- Volume in drive D is Elements
- Volume Serial Number is D24A-D77D
-
- Directory of D:\computer programing\working place\proiect
-
-08/27/2020  12:06 AM    <DIR>          .
-08/27/2020  12:06 AM    <DIR>          ..
-08/27/2020  12:06 AM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  1,411,079,573,504 bytes free
+change 1
